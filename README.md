@@ -2,12 +2,12 @@
 
 #### You can find me advancing the field in these areas:
 - 💼 I'm currently working as a developer for Fixed Income Trading Systems and AI Enablement @ Deutsche Bank.
-- 📚 I'm currently a Masters of Computer Science (AI Specialization) Student.
+- 📚 I'm currently a Masters of Computer Science (AI Specialization) Student @ Georgia Tech.
 - 🔬 Currently researching AI Safety and Evaluation @ Georgia Tech.
 - 🎓 I graduated from UNC Chapel Hill with a Bachelor of Science in Computer Science.
 - ⚛️ I was a leader of Quantum Computing initiatives at UNC Chapel Hill.
 - 🏅 I've competed at 6 hackathons including HackNC, HackGT, CalHacks. Demo'd at all 6! With 2 completed solo.
-- 💬 I've created apps for 3 local businesses in my area and love doing freelance work when I get the chance.
+- 💬 I've created 3 freelance apps for local businesses in my area + built the coding competition platform for the National Science Olympiad competitions.
 
 Professional Software Releases: 11
 
