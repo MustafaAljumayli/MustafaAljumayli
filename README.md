@@ -1,6 +1,6 @@
 ## Hello There, I'm Mustafa!
 
-#### You can find me advancing the field in these areas:
+### You can find me advancing the field in these areas:
 - 💼 I'm currently working as a developer for Fixed Income Trading Systems and AI Enablement @ Deutsche Bank.
 - 📚 I'm currently a Masters of Computer Science (AI Specialization) Student @ Georgia Tech.
 - 🔬 Currently researching AI Safety, Performance, and Evaluation @ Georgia Tech.
