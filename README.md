@@ -71,7 +71,7 @@ Started coding in 2018. My ultimate goal is to be an engineer, not just a SWE.
 
 - Former Startup Founder: reached $7,000,000 in revenue during college. $1.2M+ ARR.
 - 3 Years of Experience in Sales.
-- Former Real Estate Agent in North Carolina.
+- Former Real Estate Agent + Sales Manager in North Carolina.
 - Self-taught electronics repairman and PC builder. 
 - I'm obsessed with business and investing.
 
