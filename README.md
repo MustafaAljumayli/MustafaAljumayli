@@ -4,7 +4,7 @@
   Welcome to my page! </br> I'm Mustafa, a Software Engineer from <img src="https://cdn-icons-png.flaticon.com/512/13980/13980702.png" width="13"/> <b>Baghdad Iraq</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197484.png" width="13"/> <b>The United States</b>. </p>
 
 ### You can find me advancing the field in these areas:
-- 💼 I'm currently working as a developer for Fixed Income Trading Systems and AI Enablement @ Deutsche Bank.
+- 💼 I'm currently working as a Developer for Fixed Income Trading Systems and AI Enablement @ Deutsche Bank.
 - 📚 I'm currently a Masters of Computer Science (AI Specialization) Student @ Georgia Tech.
 - 🔬 Currently researching AI Safety, Performance, and Evaluation @ Georgia Tech.
 - 🎓 I graduated from UNC Chapel Hill with a Bachelor of Science in Computer Science.
@@ -25,6 +25,7 @@ Professional Software Releases: 13
   <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
   <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
   <img alt="Anaconda" src="https://img.shields.io/badge/-Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white">
+  <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
   <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white">
   <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white">
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
