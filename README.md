@@ -53,11 +53,13 @@ Professional Software Releases: 13
   <img alt="TailwindCSS" src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
   <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
   <img alt="Cursor" src="https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white" />
+  <img alt="NeoVim" src="https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white" />
   <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white" />
 </p>
 
 ### Background
