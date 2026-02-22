@@ -3,7 +3,7 @@
 #### You can find me advancing the field in these areas:
 - 💼 I'm currently working as a developer for Fixed Income Trading Systems and AI Enablement @ Deutsche Bank.
 - 📚 I'm currently a Masters of Computer Science (AI Specialization) Student @ Georgia Tech.
-- 🔬 Currently researching AI Safety and Evaluation @ Georgia Tech.
+- 🔬 Currently researching AI Safety, Performance, and Evaluation @ Georgia Tech.
 - 🎓 I graduated from UNC Chapel Hill with a Bachelor of Science in Computer Science.
 - ⚛️ I was a leader of Quantum Computing initiatives at UNC Chapel Hill.
 - 🏅 I've competed at 6 hackathons including HackNC, HackGT, CalHacks. Demo'd at all 6! With 2 completed solo.
