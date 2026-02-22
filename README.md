@@ -68,7 +68,7 @@ Started coding in 2018. My ultimate goal is to be an engineer, not just a SWE.
 - 3 Years of Experience in Sales.
 - Former Real Estate Agent in North Carolina.
 - Self-taught electronics repairman and PC builder. 
-- I'm obssessed with business and investing.
+- I'm obsessed with business and investing.
 
 Learn more about me @ [mustafaaljumayli.com](https://www.mustafaaljumayli.com)!
 <!-- <h3>Open source projects</h3>
