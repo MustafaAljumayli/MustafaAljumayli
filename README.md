@@ -1,7 +1,9 @@
-<h1>Hello There, I'm Mustafa! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
-
+<h1>
+	Hello There, I'm Mustafa! <img src="https://slackmojis.com/emojis/90185-cool-doge/image/1718559271/cool-doge.gif" width="40" height="40"/>
+</h1>
 <p>
-  Welcome to my page! </br> I'm Mustafa, a Software Engineer from <img src="https://cdn-icons-png.flaticon.com/512/13980/13980702.png" width="13"/> <b>Baghdad Iraq</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197484.png" width="13"/> <b>The United States</b>. </p>
+  Welcome to my page! </br> I'm Mustafa, a Software Engineer from <img src="https://cdn-icons-png.flaticon.com/512/13980/13980702.png" width="13"/> <b>Baghdad Iraq</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197484.png" width="13"/> <b>The United States</b>. 
+</p>
 
 ### You can find me advancing the field in these areas:
 - 💼 I'm currently working as a Developer for Fixed Income Trading Systems and AI Enablement @ Deutsche Bank.
