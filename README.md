@@ -6,7 +6,7 @@
 </p>
 
 ### You can find me advancing the field in these areas:
-- 💼 I'm currently working as a Quantitative Developer for Fixed Income Trading Systems and AI Enablement @ Deutsche Bank.
+- 💼 I'm currently working as a developer for Fixed Income Trading Systems and AI Enablement @ Deutsche Bank.
 - 📚 I'm currently a Masters of Computer Science (AI Specialization) Student @ Georgia Tech.
 - 🔬 Currently researching AI Safety, Performance, and Evaluation @ Georgia Tech.
 - 🎓 I graduated from UNC Chapel Hill with a Bachelor of Science in Computer Science.
