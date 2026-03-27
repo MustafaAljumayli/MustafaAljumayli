@@ -14,7 +14,6 @@
 - 🏅 I've competed at 6 hackathons including HackNC, HackGT, CalHacks. Demo'd at all 6! With 2 completed solo.
 - 💬 I've created 3 freelance apps for local businesses in my area + built the coding competition platform for the National Science Olympiad competitions.
 
-Professional Software Releases: 13
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
