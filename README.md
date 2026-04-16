@@ -111,7 +111,10 @@ Learn more about me @ [mustafaaljumayli.com](https://www.mustafaaljumayli.com)!
   </tbody>
 </table> -->
 <h3>My latest posts</h3>
-Pending...
+<ul>
+	<li><a href="https://www.mustafaaljumayli.com/blog/change-can-be-scary-but-remarkable"><b><img src="https://cdn.elearningindustry.com/wp-content/uploads/2019/06/embrace-artificial-intelligence-in-the-workplace.jpg" width="20" alt="new" /> Change Can Be Scary but Remarkable; Why You Should Embrace The Age of AI</b></a><br/>
+	</li>
+</ul>
 <!-- <ul>
   <li><a href="https://medium.com/better-programming/create-your-first-ethereum-smart-contract-with-remix-ide-667e46e81901"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Create Your First Ethereum Smart Contract With Remix IDE</b></a><br/><i>Build a Blockchain-powered chat from your browser!.</i></li>
   <li><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> How to Create a Self-Updating README.md for Your GitHub Profile</b></a><br/><i>A good tutorial to do your first steps with GitHub Actions</i></li>
